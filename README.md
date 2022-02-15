@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Pavel Litvinenko
 - 👀 I am interested in testing
-- 🌱 I am currently looking for a job as a QA Engineer.
+- 🌱 I work as a QA Engineer.
 - 📫 - How to contact me by telegram @PavelLi1980
